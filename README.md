@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Хе прикольнеко)))))
+Хе прикольнеко))))) кастомизирую позже
 
 <!--
 **Vadimushka/Vadimushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
